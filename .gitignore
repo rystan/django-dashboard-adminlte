@@ -6,10 +6,13 @@
 /docs/_build/
 /node_modules/
 build/
-env
+venv/
 /staticfiles/
 
 #src
 *.sqlite*
 
 .env
+
+lsp/
+.dccache
